@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668976584 source:f:\ryan\agoritmos e lógica de programação\retangulo\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669066644 source:f:\ryan\agoritmos e lógica de programação\medidas\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

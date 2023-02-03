@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669755464 source:f:\ryan\agoritmos e lógica de programação\matriz_geral\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

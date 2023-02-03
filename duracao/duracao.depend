@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669147201 source:f:\ryan\agoritmos e lógica de programação\duracao\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+

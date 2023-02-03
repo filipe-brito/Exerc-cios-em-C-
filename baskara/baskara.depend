@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669149312 source:f:\ryan\agoritmos e lógica de programação\baskara\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
